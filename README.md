@@ -44,3 +44,14 @@ It leverages embeddings and a vector database to find similar books efficiently.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+
+
+
+
+
+## 🚀 Real-World Relevance
+
+This project demonstrates a practical implementation of semantic search using vector embeddings and a vector database (Endee). 
+
+Such systems are widely used in modern AI applications like recommendation engines, search systems, and Retrieval-Augmented Generation (RAG) pipelines.
